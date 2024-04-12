@@ -38,7 +38,7 @@ import { useState } from "react";
 // } 
 
 
-export const Button = (props) => {
+export const Button = () => {
  
   const handlerButton = () => {
     // Generar un valor aleatorio entre 1 y 100
