@@ -14,10 +14,10 @@ function App() {
   const buttonText ="Count:";
    return (
     <>
-      <h1>Contador</h1>
+      <h1>Generador de numeros </h1>
       <Button text={buttonText}/> 
 
-      
+
        {/* <WapperList/> */}
 
      {/* <WapperList>
